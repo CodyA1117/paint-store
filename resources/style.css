@@ -245,7 +245,7 @@ html {
   
   /* Red lightness decreases by 15 */
   .reds .lightness .color-1 {
-    color: hsl(350, 100%, 80%);
+    background-color: hsl(350, 100%, 80%);
   
   }
   
